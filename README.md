@@ -22,14 +22,9 @@ Support By [ Cloud Rx (<a href='https://rxapis.com'>https://rxapis.com</a>) ].
 
 
 
-## Rx Solar System 2D
-* Rx Solar System 2D For Canvas
-
-
 ### Folder Steps
 * step1 : Principle Viscosity Polygon + CSS
 * step2 : Application Viscosity Polygon + CSS
-
 
 
 ### Default Function

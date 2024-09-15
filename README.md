@@ -23,8 +23,10 @@ Support By [ Cloud Rx (<a href='https://rxapis.com'>https://rxapis.com</a>) ].
 
 
 ### Folder Steps
-* step1 : Principle Viscosity Polygon + CSS
-* step2 : Application Viscosity Polygon + CSS
+
+* step1 : Application Viscosity Polygon + CSS
+* step2 : Principle Viscosity Polygon + CSS
+
 
 
 ### Default Function
